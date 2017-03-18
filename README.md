@@ -1,7 +1,8 @@
 # SwiftUtils
 Useful classes
 
-* ExpiringValue<T>
+* **ExpiringValue`<T>`**
+
   An expiring object, here is a sample:
   
   
